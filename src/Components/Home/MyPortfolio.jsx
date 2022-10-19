@@ -103,10 +103,9 @@ const MyPortfolio = () => {
                         <RightArrow />
                     </div>
                 </div>
-                {/* <HiOutlineArrowNarrowRight className='inline text-2xl' /> */}
-                {/* <div className='flex justify-center'>
+                <div className='flex justify-center'>
                     <img src="/icon/shape.png" alt="" />
-                </div> */}
+                </div>
             </div>
         </div>
     );

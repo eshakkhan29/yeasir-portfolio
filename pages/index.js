@@ -1,9 +1,11 @@
 import Head from 'next/head'
+import Footer from '../src/Components/Footer'
 import AboutMe from '../src/Components/Home/AboutMe'
 import HomeBanner from '../src/Components/Home/Banner'
 import ContactMe from '../src/Components/Home/ContactMe'
 import MyPortfolio from '../src/Components/Home/MyPortfolio'
 import Skills from '../src/Components/Home/Skills'
+import Testimonials from '../src/Components/Home/Testimonials'
 import WhatIDo from '../src/Components/Home/WhatIDo'
 import Navbar from '../src/Components/Navbar'
 
@@ -21,8 +23,10 @@ export default function Home() {
         <WhatIDo/>
         <AboutMe/>
         <MyPortfolio/>
+        <Testimonials/>
         <Skills/>
         <ContactMe/>
+        <Footer/>
       </div>
     </div>
   )

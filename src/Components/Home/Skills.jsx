@@ -6,10 +6,12 @@ const Skills = () => {
     const Illustrator = 75;
     const Sketch = 50;
     return (
-        <div>
-            <div className='flex justify-end'>
+        <div className='relative'>
+            <div className='relative top-0 -right-[95%] inline-block'>
                 <img src="/icon/shape2.png" alt="" />
             </div>
+            {/* <div 
+            className='w-[272px] h-[179px] bg-gradient-to-r from-[#ffffff1a] to-[rgba(217,217,217,0)] absolute left-0'></div> */}
             <div className='py-14 flex items-center justify-around'>
                 <div style={{ background: `conic-gradient(#EB4A4A ${adobeXD * 3.6}deg,#0e1630 0deg)` }}
                     className='w-[140px] h-[140px] rounded-full flex items-center justify-center'>
@@ -48,6 +50,8 @@ const Skills = () => {
                     </div>
                 </div>
             </div>
+            {/* <div 
+            className='w-[272px] m-0 h-[179px] bg-gradient-to-l from-[#ffffff1a] to-[rgba(217,217,217,0)] absolute right-0'></div> */}
             <div className='w-1/2 flex justify-center'>
                 <img src="/icon/shape3.png" alt="" />
             </div>

@@ -1,0 +1,21 @@
+<svg width="550" height="545" viewBox="0 0 550 545" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<circle cx="330" cy="14" r="14" fill="#EB4A4A" fill-opacity="0.5"/>
+<circle cx="330" cy="14" r="8" fill="#EB4A4A"/>
+</g>
+<g opacity="0.5">
+<circle cx="350.5" cy="178.5" r="8.5" fill="#EB4A4A" fill-opacity="0.5"/>
+<circle cx="350.5" cy="178.5" r="4.85714" fill="#EB4A4A"/>
+</g>
+<g opacity="0.5">
+<circle cx="12" cy="262.5" r="11.5" fill="#EB4A4A" fill-opacity="0.5"/>
+<circle cx="12" cy="262.5" r="6.57143" fill="#EB4A4A"/>
+</g>
+<g opacity="0.5">
+<circle cx="538.5" cy="344.5" r="11.5" fill="#EB4A4A" fill-opacity="0.5"/>
+<circle cx="538.5" cy="344.5" r="6.57143" fill="#EB4A4A"/>
+</g>
+<circle cx="278" cy="277" r="160" fill="#0E1530" stroke="#171F38" stroke-width="70"/>
+<circle opacity="0.1" cx="278.5" cy="277.5" r="86.5" stroke="#808DAD" stroke-width="2" stroke-linecap="round" stroke-dasharray="10 10"/>
+<circle opacity="0.1" cx="278.5" cy="277.5" r="266.5" stroke="#808DAD" stroke-width="2" stroke-linecap="round" stroke-dasharray="10 10"/>
+</svg>
